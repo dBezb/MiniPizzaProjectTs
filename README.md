@@ -9,6 +9,6 @@
 
 <h1 align="center">Screenshots</h1>
 
-![Alt text](ps1-1.png)
-![Alt text](ps2.png)
-![Alt text](ps3.png)
+![Alt text](./public/ps1-1.png)
+![Alt text](./public/ps2.png)
+![Alt text](./public/ps3.png)
